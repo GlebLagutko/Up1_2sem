@@ -18,7 +18,7 @@ public:
 		size = 0;
 	}
 	//iterator begin() { return head; }
-	//iterator end() { return nullptr; }
+	//iterator end() { return nullptr; 
 	void push_back(T x) {
 		size++;
 		if (size == 1) {
